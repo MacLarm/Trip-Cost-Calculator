@@ -1,0 +1,28 @@
+# Xcode
+.DS_Store
+build/
+DerivedData/
+*.pbxuser
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+xcuserdata/
+*.xcscmblueprint
+
+# Swift Packages
+.swiftpm/xcode/package.xcworkspace/
+.build/
+Packages/
+
+# Mac OS
+.DS_Store 
+.AppleDouble 
+.LSOverride
+
+# General 
+*.log 
+*.tmp
+
+# Extra File in the Repo, You don't need this.
+MessinAround/
+
