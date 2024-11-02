@@ -1,32 +1,29 @@
 # Trip Cost Calculator
 
-{Important! Do not say in this section that this is college assignment. Talk about what you are trying to accomplish as a software engineer to further your learning.}
+I love road trips. The problem is my car usually averages 17 MPG on the highway. There have been 
+times where I traveled far enough and within short enough time-span that it was cheaper for me to
+pay for a rental car that could make much better milage than to take my own car. This is an 
+object-oriented program written in Swift that will help me decide if its worth it to pay for a 
+rental in my future road trips.
 
-{Provide a description of the software that you wrote to demonstrate the Java language.}
+My purpose in writing this was first to learn more about programming in Swift, and second, to keep
+from having to do the math to make the decion again.
 
-{Describe your purpose for writing this software.}
-
-{Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running and a walkthrough of the code. Focus should be on sharing what you learned about the language syntax.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/KbVx3FKP1NE)
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
-
-{Describe the programming language that you used and any libraries.}
+This was developed in Swift using Xcode. I used the command-line tool.
+There are no special libraries or other tools needed.
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-
-- [Web Site Name](http://url.link.goes.here)
-- [Web Site Name](http://url.link.goes.here)
+- [Swift Documentation](https://www.swift.org/documentation/)
+- [Swift](https://developer.apple.com/documentation/swift)
+- [When in doubt, Copilot it out](https://copilot.microsoft.com/)
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
-
-- Item 1
-- Item 2
-- Item 3
+- Design Refinement. The classes have poor abstration, fidelity, and convience, I would like to redesign it.
+- Better User Interface. My first idea for this is to create an interface class that handles user input and interfaces with the classes seamlessly, improving convience.
+- Move the project out of the terminal. This would be a cool mobile app.
