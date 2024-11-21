@@ -23,6 +23,55 @@ Packages/
 *.log 
 *.tmp
 
-# Extra File in the Repo, You don't need this.
+# Xcode specific
+*.xcuserstate
+*.xcworkspace
+*.xcodeproj/project.xcworkspace/
+*.xcodeproj/xcuserdata/
+*.xcodeproj/xcuserdata/*
+
+# Swift Package Manager
+.swiftpm/
+.build/
+
+# CocoaPods
+Pods/
+Podfile.lock
+
+# Carthage
+Carthage/Build/
+
+# Fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots
+fastlane/test_output
+fastlane/report.xml
+
+# Archives
+*.xcarchive
+
+# Derived Data
+DerivedData/
+
+# Index
+*.idx
+
+# Core Data
+*.xccheckout
+*.moved-aside
+*.xcuserstate
+
+# Asset Catalog
+*.xcassets
+
+# Playgrounds
+timeline.xctimeline
+playground.xcworkspace
+
+# SwiftUI Previews
+.swiftpm/xcode/package.xcworkspace/xcuserdata/
+
+# Extra Files
 MessinAround/
 Landmarks/
