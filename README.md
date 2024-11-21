@@ -9,7 +9,7 @@ rental in my future road trips.
 My purpose in writing this was first to learn more about programming a mobile app in Swift, and second, to keep
 from having to do the math to make the decion again.
 
-[Software Demo Video](https://youtu.be/KbVx3FKP1NE)
+[Software Demo Video](https://youtu.be/XEPiv9Xcc5Y)
 
 # Development Environment
 

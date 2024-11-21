@@ -7,6 +7,8 @@
 
 import SwiftUI
 
+
+// This is here to help with some seeing the canvas for my views.
 var trip = Trip(miles: 2000, days: 2)
 var samurai = RentalVehicle(make: "Suzuki", model: "Samurai", year: 1988, milePerGallon: 25, costPerDay: 0)
 var gmc = RentalVehicle(make: "GMC", model: "ENVOY", year: 2005, milePerGallon: 16, costPerDay: 0)
